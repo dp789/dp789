@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **MERN Stack**
 
-- 📫 How to reach me **dp2707.bbk@gmail.com**
+- 📫 How to reach me **deepak2707.bbk@gmail.com**
 
 - 👨‍💻 All of my projects are available at [Deepak Singh](http://deepaksingh-portfolio.netlify.app/)
 
